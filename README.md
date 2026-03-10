@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there👋
 
-<!--
-**sheroshu/sheroshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ivan, junior frontend developer.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS (adaptive, flexbox, grid, sass)
+- JavaScript (still improving)
+- Git
+
+Also worked with:
+- Python (aiogram, pygame)
+- Pug
+
+## Currently learning
+
+React
+
+## Certificates
+
+Python course  
+https://imgur.com/a/Riol0Hv
+
+Frontend course  
+https://imgur.com/a/5C4EMNN
+
+## Contacts
+[Telegram](https://t.me/WINTERF4LL)
+
+mailto:sheroshutech@gmail.com
+
+## краткий экскурс / short excursional
+ru:
+начал изучать фронтенд 2 года назад
+записался на курс с двумя простыми целями:
+
+1. хочу писать код
+2. хочу в творчество
+
+теперь я знаю основы и продолжаю учиться самостоятельно
+в настоящее время изучаю React и практикую на макетах фигмы свои знания
+en:
+I started learning front-end two years ago.
+I enrolled in a course with two ordinary people:
+
+1. I want to write code.
+2. I want to get creative.
+
+Now I know the basics and continue to learn on my own.
+I'm currently learning React and practicing my knowledge on Figma mockups.
