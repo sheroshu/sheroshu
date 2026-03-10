@@ -40,6 +40,7 @@ ru:
 
 теперь я знаю основы и продолжаю учиться самостоятельно
 в настоящее время изучаю React и практикую на макетах фигмы свои знания
+
 en:
 I started learning front-end two years ago.
 I enrolled in a course with two ordinary people:
