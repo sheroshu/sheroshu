@@ -12,6 +12,7 @@ I'm Ivan, junior frontend developer.
 Also worked with:
 - Python (aiogram)
 - Pug
+- docker (a bit)
 
 ## Certificates
 
