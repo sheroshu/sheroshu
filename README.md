@@ -6,16 +6,12 @@ I'm Ivan, junior frontend developer.
 
 - HTML
 - CSS (adaptive, flexbox, grid, sass)
-- JavaScript (still improving)
+- JavaScript (ts, react)
 - Git
 
 Also worked with:
 - Python (aiogram, pygame)
 - Pug
-
-## Currently learning
-
-React
 
 ## Certificates
 
@@ -29,17 +25,6 @@ https://imgur.com/a/5C4EMNN
 [Telegram](https://t.me/WINTERF4LL)
 
 mailto:sheroshutech@gmail.com
-
-## краткий экскурс / short excursional
-ru:
-начал изучать фронтенд 2 года назад
-записался на курс с двумя простыми целями:
-
-1. хочу писать код
-2. хочу в творчество
-
-теперь я знаю основы и продолжаю учиться самостоятельно
-в настоящее время изучаю React и практикую на макетах фигмы свои знания
 
 en:
 I started learning front-end two years ago.
