@@ -10,7 +10,7 @@ I'm Ivan, junior frontend developer.
 - Git
 
 Also worked with:
-- Python (aiogram, pygame)
+- Python (aiogram)
 - Pug
 
 ## Certificates
