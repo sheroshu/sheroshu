@@ -25,4 +25,3 @@ https://imgur.com/a/5C4EMNN
 ## Contacts
 [Telegram](https://t.me/WINTERF4LL)
 
-mailto:sheroshutech@gmail.com
