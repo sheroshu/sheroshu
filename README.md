@@ -11,6 +11,7 @@ I'm Ivan, junior frontend developer.
 
 Also worked with:
 - Python (aiogram)
+- sql (for bot telegram)
 - Pug
 - docker (a bit)
 
