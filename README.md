@@ -6,7 +6,7 @@ I'm Ivan, junior frontend developer.
 
 - HTML
 - CSS (adaptive, flexbox, grid, sass)
-- JavaScript (ts, react)
+- JavaScript (ts, react, node)
 - Git
 
 Also worked with:
